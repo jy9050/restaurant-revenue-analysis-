@@ -10,3 +10,8 @@ Dataset description
 SQL queries summary
 
 Key insights
+
+## 🔗 Connect with Me
+If you like this project, connect with me on [LinkedIn](https://www.linkedin.com/in/jyoti-kashyap-58a32336b
+
+).
