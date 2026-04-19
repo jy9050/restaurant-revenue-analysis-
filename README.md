@@ -1,4 +1,4 @@
-# Zomato-Sales-Analysis
+# restaurant-revenue-analysis 
 SQL queries and dataset analysis for a single restaurant Zomato case study
 
 Short case study
